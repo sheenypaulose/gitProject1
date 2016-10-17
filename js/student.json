@@ -1,0 +1,32 @@
+{
+	"emp1" : {
+			"id" : 1,
+			"name" : "John",
+			"lastname" : "Doe",
+			"address" : {
+				"address1" : "delhi",
+				"adress2" : "mumbai"
+			},
+			"contact" : {
+				"mob" : 9100010000,
+				"tel" : 4789002
+			},
+			"division" : "1",
+			"sector" : "pvt"
+	},
+	"emp2" : {
+			"id" : 2,
+			"name" : "Mary",
+			"lastname" : "Tow",
+			"address" : {
+				"address1" : "chennai",
+				"adress2" : "hyd"
+			},
+			"contact" : {
+				"mob" : 9789376742,
+				"tel" : 4768302
+			},
+			"division" : "1",
+			"sector" : "govt"
+	}
+}
